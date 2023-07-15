@@ -9,6 +9,6 @@ In this repo is a skeleton project that you can copy to help get you started mak
 
 ## How to build
 
-Open a terminal in your project's folder and run `mvnw install`. Once completed you will find a file called `ExampleProject.jar`, that's the file you add to Caffeinated.
+Open a terminal in your project's folder and run `mvnw install`. Once completed you will find a file called `ExampleProject.jar` in `target/`, that's the file you add to Caffeinated.
 
 Read the [SDK Documentation](https://casterlabs.github.io/caffeinated-sdk/Plugins%20Development/) for more information on how Widgets work and how to do other things.
